@@ -1,0 +1,12 @@
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\bin\Debug\net6.0\ItemTime.ProcessUsage.deps.json
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\bin\Debug\net6.0\ItemTime.ProcessUsage.dll
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\bin\Debug\net6.0\ref\ItemTime.ProcessUsage.dll
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\bin\Debug\net6.0\ItemTime.ProcessUsage.pdb
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ItemTime.ProcessUsage.csproj.AssemblyReference.cache
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ItemTime.ProcessUsage.GeneratedMSBuildEditorConfig.editorconfig
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ItemTime.ProcessUsage.AssemblyInfoInputs.cache
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ItemTime.ProcessUsage.AssemblyInfo.cs
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ItemTime.ProcessUsage.csproj.CoreCompileInputs.cache
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ItemTime.ProcessUsage.dll
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ref\ItemTime.ProcessUsage.dll
+C:\VScodeFiles\cs\ItemTime.ProcessUsage\obj\Debug\net6.0\ItemTime.ProcessUsage.pdb
